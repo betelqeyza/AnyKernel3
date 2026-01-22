@@ -9,21 +9,10 @@
 | |\  |  __/\ V  V /                                
 |_| \_|\___| \_/\_/                      
 *****************************************************
-
-*****************************************************
                       INFORMATION
 *****************************************************
- Version   : 1.0.0
  Chipset   : Exynos 9611 with Mali G72 MP3
  Android   : Compatible with AOSP 13/14/15/16
  Developer : Sans | Telegram: @Sans9611
  Support   : Join us on Telegram @Exynos9611Development_chat
-*****************************************************
-*****************************************************
-                   MAIN FEATURES
-*****************************************************
- Improved battery life and performance
- Removal of Samsung-specific security and debugging features.
- Strips away numerous Samsung-introduced debug codes/configurations.
- Integrates the WireGuard in-kernel VPN.
 *****************************************************
